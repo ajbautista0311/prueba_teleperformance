@@ -1,7 +1,5 @@
 # prueba_teleperformance
 
-Se utilizo mysql, express, mongoose
-
 Pasos 
 -npm i
 
